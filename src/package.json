@@ -1,0 +1,32 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "playwright install",
+    "unit": "jest --testMatch '**/unit/**/*.spec.[jt]s?(x)'",
+    "playwright": "playwright test",
+    "playwright:demo": "cross-env DEMO=true playwright test"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Michal Stanke",
+    "email": "michal@stanke.cz",
+    "url": "https://michal.stanke.cz/"
+  },
+  "license": "Unlicense",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1",
+    "@types/dedent": "^0.7.0",
+    "@types/jest": "^29.1.2",
+    "cross-env": "^7.0.3",
+    "dedent": "^0.7.0",
+    "jest": "^29.1.2",
+    "moment": "^2.29.4",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {}
+}
