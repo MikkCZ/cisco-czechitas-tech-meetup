@@ -7,7 +7,8 @@
     "postinstall": "playwright install",
     "unit": "jest --testMatch '**/unit/**/*.spec.[jt]s?(x)'",
     "playwright": "playwright test",
-    "playwright:demo": "cross-env DEMO=true playwright test"
+    "playwright:demo": "cross-env DEMO=true playwright test",
+    "playwright:report": "npx playwright show-report"
   },
   "keywords": [],
   "author": {
