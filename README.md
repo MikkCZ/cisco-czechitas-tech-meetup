@@ -2,7 +2,8 @@
 
 Tyto materiály vznikly pro Tech MeetUp pořádaný Czechitas a Ciscem 18. 10. 2022.
 
-https://www.czechitas.cz/kurzy/tech-meetup-moderni-cloudove-technologie-a-best-practices-modern-cloud-technologies-and-best-practices
+- https://www.czechitas.cz/kurzy/tech-meetup-moderni-cloudove-technologie-a-best-practices-modern-cloud-technologies-and-best-practices
+- https://cognitive.cisco.com/
 
 ## [Slajdy](slides.pdf)
 
