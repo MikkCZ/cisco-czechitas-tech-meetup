@@ -64,6 +64,5 @@ příkazy `lando start`/`lando stop`.
 
 ## Dotazy
 
-Našli jste chybu nebo se chcete na něco zeptat? Napište do [issues](https://github.com/MikkCZ/cisco-czechitas-tech-meetup/issues)
-nebo e-mailem na [mistanke@cisco.com](mailto:mistanke@cisco.com) (pracovní) /
+Našli jste chybu nebo se chcete na něco zeptat? Napište e-mailem na [mistanke@cisco.com](mailto:mistanke@cisco.com) (pracovní) nebo
 [michal@stanke.cz](mailto:michal@stanke.cz) (osobní).
